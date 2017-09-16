@@ -14,4 +14,3 @@ end
 def move (display_board, index, player = "X")
   board[index] = player
 end
-  
